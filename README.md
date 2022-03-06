@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
 <br/>
-<br/>
 <h3 align="center">🛠 Skills</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -33,5 +32,6 @@
 </div>
 <br/>
 <br/>
+
 ![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
 
