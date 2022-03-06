@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<a href="https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&region=us-east-2&src=header-signin#" target="_blank"><img src="https://img.shields.io/badge/#000000?style=flat&logo=Amazon&logoColor=#232F3E"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=radical)
