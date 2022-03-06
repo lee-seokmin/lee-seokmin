@@ -30,6 +30,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 </div>
+<br/>
+<br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
+<h3 align="center">💻Equipmen💻t</h3>
+<div align="center">
+  <a href="https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&region=us-east-2&src=header-signin#" target"_blank"><img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
+</div>
 
