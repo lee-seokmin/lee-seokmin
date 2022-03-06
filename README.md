@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokmin12)](https://solved.ac/seokmin12)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokmin12)](https://solved.ac/seokmin12)
 
 <br/>
 <br/>
