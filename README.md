@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
 
 <br/>
 <br/>
