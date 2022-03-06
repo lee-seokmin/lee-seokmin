@@ -3,8 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
-![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
-
 <br/>
 <br/>
 <h3 align="center">🛠 Skills</h3>
@@ -33,4 +31,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 </div>
+<br/>
+<br/>
+![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
 
