@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
-![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)　　
+![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)　　　　　
 ![Seokmin's language rank](https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12)
 
 <h2 align="center">🛠 Skills</h2>
