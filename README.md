@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&region=us-east-2&src=header-signin#" target="_blank"><img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
   <a href="https://www.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Google-Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </div>
 
