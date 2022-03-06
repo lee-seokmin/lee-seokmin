@@ -4,9 +4,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
 <div align="center">
-  ![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12&layout=compact" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">🛠 Skills</h2>
 <div align="center">
