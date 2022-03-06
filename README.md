@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
-<h3 align="center">🛠 Skills</h3>
+<h2 align="center">🛠 Skills</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<h3 align="center">💻 Tools</h3>
+<h2 align="center">💻 Tools</h2>
 <div align="center">
   <a href="https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&region=us-east-2&src=header-signin#" target="_blank"><img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
   <a href="https://www.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
@@ -33,4 +33,10 @@
 <br/>
 
 ![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
+
+<h2 align="center">📞 Contacts</h2>
+<div align="center">
+  <a href="https://www.instagram.com/min_e_coder/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:dltjrals13@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</div>
 
