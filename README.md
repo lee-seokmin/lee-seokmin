@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<h3 align="center">🛠Skills🛠</h3>
+<h3 align="center">🛠 Skills</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<h3 align="center">💻Tools💻</h3>
+<h3 align="center">💻 Tools</h3>
 <div align="center">
   <a href="https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&region=us-east-2&src=header-signin#" target="_blank"><img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
   <a href="https://www.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
