@@ -3,9 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Lee%20Seokmin&fontSize=90&animation=twinkling)
 
-![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  ![Seokmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokmin12&show_icons=true&theme=cobalt)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <h2 align="center">🛠 Skills</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
