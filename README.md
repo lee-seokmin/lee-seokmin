@@ -8,8 +8,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12&layout=compact" />
   <br/>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjrals13)](https://solved.ac/dltjrals13)
+  [(http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjrals13)](https://solved.ac/dltjrals13)
 </div>
 
 <h2 align="center">🛠 Skills</h2>
