@@ -8,7 +8,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokmin12&layout=compact" />
   <br/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjrals13" />
+  <a href="https://solved.ac/profile/dltjrals13">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjrals13" />
+  </a>
 </div>
 
 <h2 align="center">🛠 Skills</h2>
