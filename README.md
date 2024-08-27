@@ -5,5 +5,5 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=seokmin12&theme=vue-dark&background=00000000&hide_border=true">
 </p>
 
-[![seokmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seokmin12&theme=vue&bg_color=00000000&hide_border=true)]
+![seokmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seokmin12&theme=vue&bg_color=00000000&hide_border=true)
 
